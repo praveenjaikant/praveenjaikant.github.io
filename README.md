@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# chatBnB
 
-You can use the [editor on GitHub](https://github.com/praveenjaikant/praveenjaikant.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Last Updated: April 27, 2025_
 
-### Markdown
+Thank you for using chatBnB - our Custom GPT for Airbnb Listing Search!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview
 
-```markdown
-Syntax highlighted code block
+We value your privacy.  
+This Custom GPT is designed solely to assist users in searching for Airbnb listings based on their queries.  
+We **do not collect**, **store**, or **share** any personal information.
 
-# Header 1
-## Header 2
-### Header 3
+## Information Collection
 
-- Bulleted
-- List
+- **We do not collect personal information.**
+- No names, emails, IP addresses, payment details, or any other user-identifiable information are captured, stored, or processed.
+- All interactions remain ephemeral and are not saved.
 
-1. Numbered
-2. List
+## Open Source Commitment
 
-**Bold** and _Italic_ and `Code` text
+- Our code is **fully open source** and publicly available.
+- You can review, audit, or contribute to the project by visiting our [GitHub repository](https://github.com/praveenjaikant/chatBnB/).
 
-[Link](url) and ![Image](src)
-```
+## Third-Party Services
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- This GPT helps you find Airbnb listings by processing your search queries.
+- We are **not affiliated with Airbnb** and do not access Airbnb user accounts or sensitive data.
+- The service operates independently and only surfaces publicly available listing information.
 
-### Jekyll Themes
+## Changes to This Privacy Policy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praveenjaikant/praveenjaikant.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We may update this Privacy Policy from time to time.  
+If we make changes, we will update the "Last Updated" date at the top of this document.
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions or concerns about this Privacy Policy, please feel free to open an issue on our [GitHub repository](https://github.com/praveenjaikant/chatBnB/issues).
+
+---
+
+**Summary**:  
+We respect your privacy. No data is collected. Everything is open source. Simple as that. ❤️
